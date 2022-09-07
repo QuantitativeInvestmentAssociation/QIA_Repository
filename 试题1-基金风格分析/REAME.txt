@@ -1,5 +1,0 @@
-Quadratic Programming in Python
-https://scaron.info/blog/quadratic-programming-in-python.html
-
-系数t检验
-https://blog.csdn.net/semine_shen/article/details/80061594
